@@ -20,7 +20,7 @@ $ composer install
 # install npm package
 $ npm install
 # build dev 
-$ npm run dev
+$ npm run development
 ```
 
 Before we start web server make sure we already generate app key, configure `.env` file and do migration.
